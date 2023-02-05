@@ -1,1 +1,2 @@
 # mstr-bqjdbc
+JDBC;DRIVER={com.microstrategy.googlebigquery.jdbc42.Driver};URL={jdbc:bigquery://https://www.googleapis.com/bigquery/v2;ProjectId=<ProjectID>;OAuthType=0;OAuthServiceAcctEmail=user@<project_id>.iam.gserviceaccount.com;OAuthPvtKeyPath=C:\Users\admin\Downloads\credentialfile.json;Location=asia-northeast1;Timeout=600;EnableHighThroughputAPI=1;EnableSession=1;LogLevel=6;LogPath=c:\temp};
